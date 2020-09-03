@@ -6,7 +6,7 @@
 ![](Images/gifs/TutorialIntro.gif)
 ![](Images/gifs/AttackPattern_SpreadFire.gif)
 ![](Images/gifs/AttackPattern_RadialBlast.gif)
-![](Images/gifs/AttackPattern_CosmicRain .gif)
+![](Images/gifs/AttackPattern_CosmicRain.gif)
 
 ![](Images/03_AttackSystem.png)
 ![](Images/04_Optimization.png)
