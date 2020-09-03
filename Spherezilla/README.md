@@ -1,4 +1,4 @@
-Spherezilla is Playable here: https://ulyssesnorth.itch.io/spherezilla
+Spherezilla is downloadable here: https://ulyssesnorth.itch.io/spherezilla
 
 ![](Images/00_Overview.png)
 ![](Images/01_GameDesign.png)
