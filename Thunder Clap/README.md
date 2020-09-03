@@ -1,3 +1,5 @@
+ThunderClap is playable here: https://tingwen.itch.io/thunder-clap
+
 ![](Images/gifs/FullGamePlay.gif)
 ![](Images/00_Overview.png)
 ![](Images/01_GameDesign.png)

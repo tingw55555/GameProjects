@@ -1,3 +1,6 @@
+
+Moar Scratches is playable here: https://tingwen.itch.io/moar-scratchez
+
 ![](images/00_Overview.png)
 ![](images/01_GDD.png)
 ![](images/02_Gameplay_PopUp.gif)
