@@ -1,4 +1,4 @@
-# 7-Day Game Prototypes
+# 7-Day Unity Game Prototypes
 
 Moar Scratchez- Cat Petting Rhythm Game. 
 
