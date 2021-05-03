@@ -6,5 +6,6 @@ Spherezilla is downloadable here: https://ulyssesnorth.itch.io/spherezilla
 ![](Images/04_BuildingzDestruction.png)
 ![](Images/05_BuildingRegeneration.png)
 ![](Images/03_AnimationSequence.png)
+![](Images/06_Summery.png)
 
 
