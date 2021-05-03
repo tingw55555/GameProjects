@@ -12,3 +12,4 @@ ThunderClap is playable here: https://tingwen.itch.io/thunder-clap
 
 ![](Images/03_AttackSystem.png)
 ![](Images/04_Optimization.png)
+![](Images/05_Summary.png)
