@@ -1,4 +1,4 @@
-# 7-Day Unity Game Prototypes
+Unity Game Prototypes
 
 Moar Scratchez- Cat Petting Rhythm Game. 
 
@@ -8,5 +8,6 @@ Spherezilla - Endless Mesh Destruction Game
 
 The TarantuLad - Action Swinging Game 
 
-The Odd One Out - Co-op, "Where's Waldo?" Game. 
-(Completed in 3-Days)
+The Odd One Out - Co-op, "Where's Waldo?" Game.
+
+KAIROs - BulletHell with League of Legends Control
