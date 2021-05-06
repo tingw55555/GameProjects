@@ -1,4 +1,6 @@
-Unity Game Prototypes
+---Unity Game Prototypes---
+
+KAIROs - BulletHell with League of Legends Control
 
 Moar Scratchez- Cat Petting Rhythm Game. 
 
@@ -10,4 +12,4 @@ The TarantuLad - Action Swinging Game
 
 The Odd One Out - Co-op, "Where's Waldo?" Game.
 
-KAIROs - BulletHell with League of Legends Control
+
