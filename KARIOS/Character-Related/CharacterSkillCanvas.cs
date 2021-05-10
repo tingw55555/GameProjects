@@ -6,18 +6,18 @@ public class CharacterSkillCanvas : MonoBehaviour
 {
 	public GameObject ba_Indicator;
 
-	public void SetBAIndicator_Visiblity(bool isVisible)
+	public void Set_IndicatorVisiblity(bool isVisible)
 	{
 		ba_Indicator.SetActive(isVisible);
 	}
 
-	public void SetBAIndicator_Rotation(Quaternion newRotation)
+	public void Set_IndicatorRot(Quaternion newRotation)
 	{
 
 		ba_Indicator.transform.rotation = newRotation;
 	}
 
-	public bool GetBAIndicator_Visibility()
+	public bool Get_IndicatorVisibility()
 	{
 		return ba_Indicator.activeSelf;
 	}
